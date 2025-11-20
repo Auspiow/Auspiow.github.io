@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 单纯的情感
+summary: 小学的点滴回忆
+date: 2025-11-21
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -18,69 +18,82 @@ tags:
   - Markdown
 ---
 
-Welcome 👋
+# 单纯的情感
 
-{{< toc mobile_only=true is_open=true >}}
+> 25/11/21
 
-## Overview
+与其说是单纯的情感不如说是当时大脑还没发育完全，所以面对着她的时候只剩一片空白，而后留在记忆里的，也是她闪闪发光的眼睛和阳光下的回眸一笑。
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+随着年纪渐长，我发现我变得谨慎而胆小，总是喜欢全方位地审视一个人，发现什么不合意的缺点后独自叹气感慨世间天作之合如此之少。
 
-[//]: # '[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/HugoBlox/hugo-blox-builder/main/templates/academic-cv/preview.png)](https://hugoblox.com)'
+可能本就没有天作之和，陈平安的独特不在于他生来有什么，而是他为宁姚走过的千万里路和挥的百万次拳，而一切的开始是那么的普通。【英气动人的少女，雪白剑鞘的长剑，淡绿刀鞘的狭刀。她此时的身影。是少年这辈子见过最美的画面，没有之一。】没有审视也没有权衡，只是眼里有你之后的其他景都黯然失色了。
 
-### Get Started
+【大道不该如此之小，道侣不该如此之少】
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://x.com/BuildLore) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+我常常思考恋爱的意义，也有很多疑惑，是先全面了解后再成为恋人还是先成为恋人再全面了解，是看到不合适的地方就分手还是带着痛苦继续磨合下去。成年人的世界好复杂，每条路都有人走，有人失败有人成功。
 
-## Crowd-funded open-source software
+所以我还是想趁着脑中的记忆尚未完全飘散之时记录下来，看看小时候的我在情感方面的表现，保存那一份“初见”。
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+那时的我还是一个天天吵着闹着求妈妈买魔方的小男孩，我有很多魔方，但是让我记忆深刻的还是那个特别的有红、黄、绿三色的异形魔方。
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+当然，我并没有特意去记，有些瞬间不知道怎么就一直留在我的脑海里。我又想起了有天妈妈突然指着老家的白墙上面用铅笔画出的大幅抽象线条作品，说那是我画的，不知道为什么那面墙就留在了我的脑中，清晰如昨日。
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+当时应该是幼儿园刚毕业，正好有一部和魔方相关的动画片正在热映，里面的那个三色魔方特别帅，在我的反复要求之下父母终于同意了，但是有条件，买了魔方就要好好学习。
 
-## Ecosystem
+小学刚进学校的时候什么都不懂，看什么都很震惊，特别是女同学。
 
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+我前几天的时候脑子没开窍，还在追忆幼儿园的事情，后来就好了，注意到了班里一个特别漂亮的女同学，我感觉我从小到大就没有见过这么漂亮的女孩，可能对于女生的印象还停留在力气奇大无比和蛮不讲理（后来有段时间又回归了这种印象）。
 
-## Inspiration
+于是我的眼睛总是向自动索敌一般精准定位到她的脸上，自己都不能控制。直到现在其实还没有完全治好，但是总体来说症状改善很多。
 
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
+我真没想到我刚进小学的时候这么痴情，因为现在能回忆起来的只有我盯着那个女同学仔细观摩的过程以及她完美的脸颊。
 
-## Features
+但是我还是比较有契约精神的，回到家就开始写作业，脑子里只有学习。那时我不知道怎么学，只是感觉阅读好难，那本叫什么黑马阅读的练习册，里面总是问一些奇怪的阅读问题，我用铅笔和橡皮反复擦了修改，但总是做不对里面的题。后来不知怎么的，也许是做多了黄冈小状元，我的成绩慢慢变好了，这可让我松了一口气。
 
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+松了气之后可不得了，我的眼里又出现了一个女孩，她的出现让我忘记了之前那个女孩。
 
-## Themes
+她有一双很好看的大眼睛，她生气的时候会嘟起嘴来，她笑起来有小酒窝，她跑步的时候带着一股清风，她会用她的眼睛看着我的眼睛。
 
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
+她不漂亮，这是我13年后回忆起来的最客观的评语。
 
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
+但是没有关系，无论是那时的我，还是现在沉浸于回忆的我，都会觉得她是世界上第二漂亮的女孩，第一漂亮的当然是年轻时候的妈妈。小小的我没有开窍，只会呆呆地望着她，等到她看我眼睛的时候就把头扭过去，假装什么都没发生。
 
-## License
+年少记忆里存下的，往往是一些细碎而珍贵的瞬间。
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+她和我一个姓，她很执着地给自己取了一个外号，并要求我也取一个。
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+小小的我可能有点笨，想了好久都没有想出什么合适的，她说你以后就叫我李子蛋炒饭了。
+
+于是在之后的十年时间中这个外号一直陪伴着我，只不过多次演变后只剩下了两个字。后来每当有人问起我的外号，我都含糊过去，但还是认真地透露给了几个人，现在他们应该忘记了。
+
+有些东西往往能承载记忆，比如外号，歌曲等等。大一军训的时候受到室友影响，耳机里一直循环播放《晴天》，后来每次听这首歌的时候都能回忆起军训的点滴，拉练完十公里后和室友在操场狂奔，几个人冲过终点时腿像灌了铅，但是精神无比轻盈，后来再也没有过这样的体验了。
+
+当然后来的故事也平淡如水，但是她始终在我的眼里，后来有了微信之后也礼貌地聊了两句。
+
+我那时的手机还是我妈充话费多贴了九块九送的，但是对我来说是一个超级新奇的玩具，那时好像是小学四年级的寒假，我每天中午偷偷在被窝里玩微信小游戏。我记得有一个很搞笑的回合制游戏，里面有尔康从屁股底下放出一大群羊，姚明用篮球拍别人的脸，反正还有很多特别有创意的人物角色。还有一个游戏是类似宝可梦的养成游戏，也特别好玩。长大后再也没有遇到那么好玩的游戏了。
+
+就这样我利用中午的时间偷偷玩了一个月，结果因为话费超额被发现了。全家都被惊动了，可能是因为我当时撒了谎，妈妈一气之下就把我的手机收走了，这一收就是五年，后来等我再想登录时账号已经因为太久没用而封禁了，我也失去了她的联系方式。
+
+其实大一时加上了共友的微信，但是我也没有向他要联系方式，也许值得回忆之人就应该留在记忆里。
+
+到小学高年级的时候班里转来了一个学生，看起来挺文静的，文章也写得不错。我有了一点危机感，因为当时我在班里可是“文艺青年”，经常写出优秀佳作。结果新同学一来就拿到了什么作文大奖，把我比下去了。
+
+那时我们每周都会像“曲水流觞”般传递笔记本并在上面交流和留言，可以说是手写版本的文学论坛，记录着小学生幼稚而天马行空的话语。可惜后来被班主任发现了，觉得我们“不务正业”，就把笔记本没收了。
+
+我后来就泡在数学和科学上了，可能是一种热别的感觉促使我奋力学习。
+
+而新同学和李子蛋炒饭则越来越熟，他们一起创作诗歌、准备毕业晚会的诗词朗诵，而我还奔波于学而思和新东方之间，甚至最后毕业晚会的时候也请假了，没能看到他们的演出。
+
+应该很精彩。
+
+因为我们是九年义务制的学校，小学高年级和初中部在同一个校区，我和大部分人一样最后还是选择了直升，她也是。初中和小学仿佛有着天差地别，我没日没夜地学习，承受巨大的竞争压力，最后拿到了最好高中的报送名额。我见过几次她的背影，但是都很模糊了。
+
+初中的时候其实也发生了很多事情，但是终究不如那时纯真的情感。高中也完全浸泡在题海里，感觉人生最该思考情感的年纪都在做题中度过，导致我现在已经不认识自己的情感了。
+
+顺便一提，那个新同学就是我前面提到的共友，也是我现在为数不多有联系方式的小学同学。他后来读了国际学校，雅思考了8分，很厉害。
+
+我们之间的故事也许很长，也许从未开始。
+
+这就是我的一点小故事。散落在记忆的各种角落，很细碎，很杂乱，加上本身跳跃的思维和贫瘠的语言，这些思绪只能混乱地呈现出来，希望能带给你一种称之为“感觉”的东西，同时祝愿读到这里的你依旧怀揣纯真的情感，心中的火焰还未熄灭。
+
+
