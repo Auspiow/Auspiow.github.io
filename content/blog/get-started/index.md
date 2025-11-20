@@ -1,6 +1,6 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+title: 单纯的情感
+summary: 小学的点滴回忆
 date: 2023-10-27
 
 # Featured image
@@ -17,8 +17,6 @@ tags:
   - Hugo Blox
   - Markdown
 ---
-
-# 单纯的情感
 
 > 25/11/21
 
